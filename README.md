@@ -5,4 +5,4 @@
 
 ## Activités pratiques
 1. [Activité pratique N°1 : Event Driven Architecture]()
-2. [Activité pratique N°2 : Architectures Micro-services avec Spring cloud](https://github.com/)
+2. [Activité pratique N°2 : Architectures Micro-services avec Spring cloud]([https://github.com/](https://github.com/Elammourikaoutar/microcervice_spring-cloud-streams/blob/master/spring-cloud-streams/readme.md)https://github.com/Elammourikaoutar/microcervice_spring-cloud-streams/blob/master/spring-cloud-streams/readme.md)
